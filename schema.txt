@@ -1,0 +1,14 @@
+2
+customer
+1 3
+custkey
+nationkey
+mktsegment
+acctbal
+
+orders
+1 2
+orderkey
+clerk
+custfk
+
